@@ -310,6 +310,6 @@ ckey: wickedtemp
 character_name: Tempest Huxley
 item_path: /obj/item/clothing/mask/gas/plaguedoctor
 item_name: Huxley's Mask
-item_icon: Huxley_Mask_Inv
+item_icon: huxley_mask
 item_desc: A modernized version of the classic design, this mask will not only filter out phoron, it can also be connected to an air supply. This one is colored purple, and it has the name 'Huxley' written in small print on the back.
 }
